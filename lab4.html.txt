@@ -1,0 +1,11 @@
+<div data-role="page" id="Recommender"> 
+<h2>Recommendation:</h2>
+   
+Item No: <input type="text"  id="item"><br>
+  
+    
+    <button id="button1" data-mini="true" data-inline="true">Recommended to</button><br><br>
+    
+    <h1>  <div id="write"></div></h1>
+    
+    </div>
